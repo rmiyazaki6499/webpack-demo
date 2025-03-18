@@ -1,0 +1,15 @@
+{
+  "name": "webpack-cry-baby",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "serve": "http-server ."
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
